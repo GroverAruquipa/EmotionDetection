@@ -1,7 +1,6 @@
 # EmotionDetection
 
-Foobar is a Python library for dealing with word pluralization.
-
+Script for the detection in real time of face emotion:
 ## Installation
 INstall anaconda, create and environment  and the next versions of libraries:
 ```bash
